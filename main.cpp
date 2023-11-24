@@ -17,7 +17,7 @@ int main(){
         cout<<"\n1. Display Watched Movies.\n";
         cout<<"2. Add a Movie to your watchlist.\n";
         cout<<"3. Increment watch count.\n";
-        cout<<"4. Quit\n";
+        cout<<"5. Quit\n";
         cout<<"\nEnter your choice: ";
         cin>>n;
         
